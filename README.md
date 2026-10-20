@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=heejae0512&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/heejae0512"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **heejae0512/heejae0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
